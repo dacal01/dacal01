@@ -74,13 +74,11 @@ Previously, I led the development of **fake voice detection models** at the RTVE
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dacal01&show_icons=true&theme=dark&hide_border=true" 
-       onerror="this.style.display='none'" />
+  <img src="https://streak-stats.demolab.com?user=dacal01&theme=dark&hide_border=true" />
 </p>
 
-<!-- Trofeos de GitHub (servicio independiente y estable) -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dacal01&theme=darkhub&no-frame=true&row=1&column=6" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dacal01&theme=react-dark&hide_border=true" />
 </p>
 
 ---
