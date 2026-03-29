@@ -50,7 +50,6 @@ Previously, I led the development of **fake voice detection models** at the RTVE
 - 🔭 **PhD research** on LLMs and conversational systems for mental health (UGR + MDHub)
 - 🧠 **RAG pipelines** and agentic AI systems in production at MDHub (YC S24)
 - 🎙️ **Speech analytics** and paralinguistic cues within the CRYSTAL consortium
-- 📄 New publication accepted at **IWSDS 2026** (Trento, Italy)
 
 ---
 
