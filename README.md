@@ -74,7 +74,7 @@ Previously, I led the development of **fake voice detection models** at the RTVE
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dacal01&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dacal01&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=1800" />
 </p>
 
 ---
